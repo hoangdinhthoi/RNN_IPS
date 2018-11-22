@@ -1,0 +1,7 @@
+Pi_AP_1	 RL007ACS1A1309  Pi_den		 B8:27:EB:56:33:1E	Vi tri 1	
+Pi_AP_2	 MMBS8GBCUSC	 Pi_trang_2	 B8:27:EB:04:56:97	Ban` thay` Binh`
+Pi_AP_3  FPT		 Pi_trang_tim	 B8:27:EB:39:7B:D9	vi tri 3 (gan cua 2)
+Pi_AP_4			 NanoPC_T3	 02:1A:11:FF:D1:2F/02:1A:11:F3:48:7B	vi tri 4 (gan lo vi song)
+Pi_AP_5  		 NanoPC_T2	 02:1A:11:FB:77:D2/02:1A:11:FF:88:BE	ban` chi Huong
+DTKTMT					 00:18:6E:CA:4F:46	
+MPEC_LAB				 C8:3A:35:47:BA:00
